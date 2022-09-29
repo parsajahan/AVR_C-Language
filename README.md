@@ -1,2 +1,5 @@
 # AVR_C-Language
-ATmega micro controller programming
+// parsa jahangiripour @parsajahan
+// ATmega micro controller programming
+// using CodeVisionAVR C Compiler
+// files included: code file - Circuit diagram - proteus simulation
