@@ -1,0 +1,4 @@
+VERSION:3 SOURCE_TIMESTAMP:55417332
+NODE:I LEVEL:0 LINE:26 "C:\cvavr\inc\mega32a.h"
+NODE:I LEVEL:0 LINE:29 "C:\cvavr\inc\alcd.h"
+NODE:F LEVEL:0 LINE:33 "main(void)"
